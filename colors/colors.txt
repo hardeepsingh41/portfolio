@@ -5,7 +5,7 @@ card, timeline background: #fff;
 
 /*green*/
 $primary-color: #06A763;
-$accent-color: #1976D2;
+$accent-color: #06a763;
 
 /*blue*/
 $primary-color: #1F5694;
